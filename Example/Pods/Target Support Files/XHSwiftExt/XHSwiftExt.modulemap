@@ -1,0 +1,6 @@
+framework module XHSwiftExt {
+  umbrella header "XHSwiftExt-umbrella.h"
+
+  export *
+  module * { export * }
+}
